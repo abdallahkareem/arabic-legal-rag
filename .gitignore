@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Data
+data/raw/*
+data/processed/*
+data/vectorstore/*
+
+# Keep empty data directories
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vectorstore/.gitkeep
+
+# ML / Experiment artifacts
+mlruns/
+wandb/
+artifacts/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Secrets
+*.pem
+*.key# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Data
+data/raw/*
+data/processed/*
+data/vectorstore/*
+
+# Keep empty data directories
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vectorstore/.gitkeep
+
+# ML / Experiment artifacts
+mlruns/
+wandb/
+artifacts/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Secrets
+*.pem
+*.key
+ssa
